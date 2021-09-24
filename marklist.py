@@ -1,0 +1,1 @@
+marks = {"HARRY : 30", "RANJEET : 51", "RITEEK : 54"}
